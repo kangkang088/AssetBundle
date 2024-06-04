@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2901459099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a8f06cb72bbdb706b98a9f35923246c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 700cce780156dfdd5fdd2ee7678caad4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Test.mat
+- Assets/ArtRes/UI/Role/24_11200002.png
+- Assets/ArtRes/UI/Role/zhujiemian_13.png
+- Assets/ArtRes/UI/Role/zhujiemian_25.png
+- Assets/ArtRes/UI/Role/23_11100001.png
+- Assets/ArtRes/UI/Role/25_11300003.png
+Dependencies: []
